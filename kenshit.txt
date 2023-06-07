@@ -1,0 +1,131 @@
+i kept calling it attack combo instead of target combo but lets just say
+attack combo = mp hp
+target combo = mk mk hk
+
+
+################## on hit:
+
+- lk lp lk hdp
+any combination of 3 lights works into hdp. good light confirm combo. im not landing lights too often tho. should be using dp to combo instead of tatsu tho. more consistent. also good to remember on wakeup.
+
+- mp hp > ex dragonlash > dp/super (side switches)
+
+- punish counter mp > command dash > stop > mp
+mp connects into itself on punish counter, good to punish dps but too advanced for me i think
+
+- crmp > crmk > heavydp
+
+- cr.mk > buffer drive rush > lp mp hp > heavy jinrai > heavy followup > heavy dp
+
+- jinrai kick > light follow up loops into itself then you can dp or super
+very good for wallsplats
+
+- attack combo > light jinrai > immediate lv 3
+in corner for simple meter usage combo. jinrai needs to juggle to work effectively i think? test this. ik it always works if you cancel followup so maybe just get used to that. but scaling so check dmg.
+
+- attack combo > heavy jinrai > heavy followup > dp/super
+another good combo, esp in corner
+
+- ex fireball > dp
+always beats jump ins over the fireball. only really use fireball when opponent is doing or setting up for something. can be decent to throw out if opponent is just out of reach to force them to respect or block but also gets hard punished, esp with DI
+
+- get used to doing attack combo after landing jump ins cuz im not doing that for some reason. can easily follow up into any dash special
+
+- only do light tatsu followup when you can land both hits to follow into srk, otherwise not worth. just do command dash or dragonlash for side switch
+
+
+
+################## on block(/mixies? i dont have anything for those yet):
+
+- cr.lp more? good check on block esp after drive rush
+it just feels so stubby but i think im supposed to be sitting that close as ken sometimes
+
+- stlk frame trap after spaced sthk? i think this punishes anyone trying to hit it, may be character dependent but im p sure sthk is safe when spaced.
+
+- end blockstring pressure with fireball, esp crmk
+crmk into fireball hitconfirms into super. dont have to rely off of hitconfirming off of crmk or buffering a DR off it. crmp > fireball is safer bc crmp is safer on block (-6 vs 0). fireball on block is -8/-10/-12 or -2 ex. dont do this all the time. its good for hitconfirming or as a mixup to keep pressure up. a lot of the time its just better to keep your turn with being +0 on block if crmp. this is also why better with crmk cuz crmk has built in stricter drive rush timing etc, its harder to convert off of.
+
+- stmk less PLEASE, just try to save it for whiff punishing where little else applies.
+i can already one hit hit confirm this esp cuz the target combo is lenient (19F). on block its -5, just dont continue it. use it at range, dont use against crouchers, it doesnt hit and if it does the subsequent hits wont.
+
+- sthk, i am starting to use this more but just be more careful w/ it before it becomes a bad habit.
+manual drive rush if i land a counter, its very rewarding. very safe, rly good poke that stuffs out a lot of others. super committal so just be careful with jump ins on it or even DI. i can also do ex dragonlash off of punish counter too but thatll side switch. an easy confirm is either manual DR or command dash srk.
+
+- heavy dragonlash > crlp combos
+heavy dragonlash is already safe on block, good on oki, good for tick throw mixies
+
+
+
+################## https://en.wikipedia.org/wiki/Drive_(2011_film):
+
+- drive rush > cr.mp.
+extremely safe, fast, and cancellable. +7/+4 frame advantage. combos directly into attack combo or crmk into specials. momentum carrys through drive rush so it should be easy to space, throw it out early. lose access to tick throws (which (cr)lp lets you do instead) but easier hit confirms, generally safer. can tick throw after if done close but is telegraphed.
+
+- drive rush off of hp hit confirm
+can do cr mp > attack combo > whatever
+
+- drive rush > sweep
+if you can whiff punish and opponent is just out of range/nothing else hits fast enough from that far, lets you reset and setup oki. way better than fireball too. but is probably worse than doing command dash heavy kick into super cancel. but this is way easier to stick with this for now until comfortable with other. i wont be using this a lot to begin with anyway if at all.
+
+- ex fireball > drive rush
+beats other projectiles and gain the space after
+
+- DI crumple > j.hp > drive rush > hp > dash > fire dp
+corner carry combo after DI crumple midstage
+
+
+
+################## things to check:
+
+- dash tatsu optimal corner carry after attack combo?
+move to on hit if true, which i think it is.
+
+- jinrai needs to juggle for super or nah
+i think it only needs juggle for combos/loops, not for super cancelling
+
+- how reliable is hdp projectile invinc
+probs not at all please do not try to challenge projectiles with hdp. please
+
+- check how reliable crmp connects into attack combo
+
+
+
+################## things to work on/keep in mind/general notes:
+
+- dont try to do complex or long combos, just focus on what im trying to do in that situation when i land a hit. do i want to use meter, do i want to corner carry, do i want to side switch. only do the thing that gets that done, add in hits as i understand the flow better. no need to go for things like jinari kick light loops now, just do heavy followup into super, or if thats too hard just combo into super directly.
+
+- need to start looking at matchups v soon. and just how to approach my defense in general, it def changes on matchup. a lot of learning how to play defensively is knowing what i can and cant challenge/punish. a lot of it is gonna have to come from mu practice. knowing what i can punish by second nature also relieves mental stack.
+
+- obvsly practice anti air. stop ex dping for anti air, it doesnt reach peak of jump and i tend to anti air late. dont bother with cross cut for cross ups for now. if anythign just use crhp. can hitconfirm off it if necessary but that might increase my mental stack too much. heavy dp when obvious, light dp when im late. ex dp for damage, esp when opponent in corner. all in all dont worry about which dp, just do a dp motion and punch.
+
+-  more important to be aware of jumping habits than it is to spend focus and mental stack on reacting to the jump. anti airing should be and eventually will become second nature. understanding when people will jump is going to be more valuable in the long run. if people do dumb jumps you will react to them, but if people are doing dumb jumps when you dont expect it you wont. realize when im not expecting it, and when the opponent likes it just. sometimes googs like to jump when i hit him with a grounded attack in neutral w/o following up and he's in range to cross me up. its so immediate that it catches me off guard but also...
+
+- ...im expecting others to react to things the same way i would. googs jumping out of hitstun catches me offguard because i just hit him im expecting him to hold block and think its still my turn. in reality i only think that because thats a habit i have, thats what i would do in that situation. observe, dont expect. my understanding of the game is shallow, not even deep enough to know if its flawed or not. dont expect everyone to react in a specific way, or default to expect to react in ways similar to me. its so so difficult for me to break out of this habit tho. because my mental stack is overwhelmed as is and part of reducing it is injecting default behaviors of how i expect my opponent to play. ofc there are consistencies, esp at top level (eg players will respect you more, jump in less, play into oki more, etc), and ill have to keep some expectations so my mental stack doesnt completely explode but that should be ok and itll get better with more experience.
+
+- ...the big thing is that i do in fact observe, i do make note of how my opponent will react, or the way they play. at least against players im not 100% overwhelmed against. this is why i can sometimes push my advantage through continious one hits. the biggest challenge comes from two parts: my own impatience, but also and this is a big one, my stubborness to change my expectations to what ive observed. This isn't something i do consciously. This might be an adhd thing. But even when I gather new information, even when i know for certain how an opponent will react after a situation, or that i have the correct read on how theyll adjust, ill still return to my default expectation. I need to either break the notion of the default, which would likely increase my mental stack/force me to respect my opponent more than i already do, or i need my thought process to be less rigid, less tense. i do think a lot part of this is not knowing what im doing and still grappling with how to control my character (even beyond inputs like knowing how i want to approach a blockstring or ok). im overwhelms just with trying to figure out what i want to do that i cant even concentrate on what my opponent is about to do, and when that happens i simply return to default and do what i know. this is why sometimes my impatience isnt actually impatience, its inability to break my own rigidness and trying to cover an option that i know the opponent isnt going to do. 
+
+- ...ironically, its why i can do well vs 50/50s as its less i have to change e.g. jumping vs attacking on wakeup for example. *with the assumption that im getting my inputs out right cuz for some reason i still cant backdash after spire. its also why i water down my own oki to turn it into 50/50s. a lot of my offensive pressure involves trying to get a hard kd which a lot of advantage for the same reason, but also cause those moves are simple to land (grabs/throws). i said earlier that i can push my advantage via continious one hits. my thought process there is:
+	- i know what youre going to do
+	- i know i can stop you
+	- i know i wont be able to stop you well
+	- but i know what youre going to do next too
+the way i water down my oki to 50/50s is proof of this. neutral is hard bc of the sheer amount of options. its why i approach in such linear and telegraphed ways. its why it looks like im mashing or throwing out pokes randomly in neutral. its me just expecting that id get a whiff punish here, or expecting that the opponent would respect my dash in for some reason, and then i continue to do it bc im returning to default expectations instead of applying my observations *even when those observations have already been made countless times* (also neutral in general is just hard and idk what im doing). its why so often i say "i knew you were gonna do that" but i fucking DI on a jump. like it looks like im the dumbest player alive, i knew the opponent was gonna jump so I drive impacted? no, i knew they were gonna jump but everythings so fast i cant process it and so i return to my default expectation which is that they were going to stay grounded and try to punish me. i may know the theory, the counterplay, the right things to do. but my thinking is slowed. eventually experience will help this but i think this habit/thinking process is deeply, deeply ingrained into my mind, as if it was coded into my brainstem. 
+
+- ...there are shortcuts to getting over this. like doing things as second nature (combo routes, anti airing, etc) but ultimately itll take me hundreds of hours to grapple with my own thought process even just somewhat. right now i just need to focus on gaining exp, the more i play, the slower the game will be/the faster ill think, the easier i can control my character, the better i can react, the further ill get. i need to keep observing myself and make sure im catching when im returning to default and when im actually adjusting my expectation.
+
+- somethingsomething thisiswhyimnotgoodatsmash (oftentimes the answer in smash is to just not engage entirely or prevent them from doing something in the first place, rather than formulating proper counterplay. it destroys my mental stack; i dont know what to do)
+
+- observe, don't expect
+- observe, don't expect
+- observe, don't expect
+- (ill figure out how to apply observations eventually, but its probably better to let things go than to be impatient and throw out something based on a flawed expectation)
+
+- theres something about my thought process when i play defensive that isnt translating when i play offensively. but when i think about it, i can play offensively just as well as i can play defensively because i think the way i approach both isnt different. the way it plays out does. i said i water down my oki to 50/50s but why, how? i dont meaty or do any setups on oki so why do i still succeed often on punishing the wakeup option, why are my games won because of my gameplay once i knockdown the opponent. i essentially let them get up. so im practically giving up oki. in a way, i play offensively, esp on knockdown, by playing it defensively (just in offensive positions). wouldnt i succeed further by doing proper oki setups? not right now, i think right now its the speed at which i pressure the opponent. once i have a kd i can dictate the pace, and oftentimes that means i slow it way the fuck down. i kd the opponent and let them get up, i let myself take the time to process, i dont think that ill pressure the wakeup, take my turn, and extend my advantage. i think we're in neutral again but on my terms, im at the advantage. yes the onus is still on my opponent bc they're at disadvantage but im cutting a way better deal for them by letting them getup for free for the most part. but once i slow the pace down i can put my observations into practice. i slow down the game enough that i can process it, even just for a second or two, finally. but once i land a hit it resets, cuz that speeds the pace back up, im not used to hit confirming or comboing off second nature and it still takes a lot to process what to do once i hit and how to extend that into either a combo or taking my turn. the same can be applied when im in defensive situations but obvsly by being in disadvantage im not going to go as far, esp when i cant convert to get out of disadvantage. i might be able to get a good lk, hp, or jump in in but if i cant convert that im resetting back to my own disadvantage...
+
+- ...so youd think that ken isnt a fit for me given that hes sorta a rushdown char with immense offensive pressure. ryu or guile would be better for the way i play defensively or someone like manon that simplifies & automates offensive pressure while retaining tools for passive play. but i think ken's good cuz he forces me to learn these aspects of the game. i think that i am good at doing the actual observing, but im stuck when it comes to applying it. im stuck when it comes to the flexibility of my own mind. if i could apply the stuff i do in defensive positions but in offensive positions instead (being plus on block, oki setups, drive rush) i think i could go very far. i need to speed up my mind, i need to commit things to second nature to help with that too. i think my thought process is actually pretty good, im just slow at it and im still trying to figure out how to even control my character. the theory is there, my mind is there, my hands aren't, the process (both my own thoughts and gaining experience) takes time.
+
+- tbh im kinda rambling by this point but im on vyvanse again.
+
+- dont be too worried about hit confirming, esp 1 hits. just do move sequences that will let me hit confirm but are still safe. if i dont follow up on stmk thats fine, dont give up your turn for it.
+
+
